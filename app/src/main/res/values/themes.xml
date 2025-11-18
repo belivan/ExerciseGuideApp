@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.ExerciseGuide" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Remove the title bar completely -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@android:color/white</item>
+        <!-- Make status bar icons dark (for white background) -->
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Window background -->
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>

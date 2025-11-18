@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Dumbbell shape centered -->
+    <!-- Left weight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:strokeColor="#333333"
+        android:pathData="M25,46 L25,62 L33,62 L33,46 Z"/>
+
+    <!-- Left inner weight -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:strokeWidth="1"
+        android:strokeColor="#333333"
+        android:pathData="M33,48 L33,60 L39,60 L39,48 Z"/>
+
+    <!-- Handle/Bar -->
+    <path
+        android:fillColor="#757575"
+        android:pathData="M39,52 L69,52 L69,56 L39,56 Z"/>
+
+    <!-- Right inner weight -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:strokeWidth="1"
+        android:strokeColor="#333333"
+        android:pathData="M69,48 L69,60 L75,60 L75,48 Z"/>
+
+    <!-- Right weight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:strokeColor="#333333"
+        android:pathData="M75,46 L75,62 L83,62 L83,46 Z"/>
+
+</vector>

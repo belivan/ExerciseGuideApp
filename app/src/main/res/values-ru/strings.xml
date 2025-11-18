@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Руководство по упражнениям</string>
+
+    <!-- Navigation -->
+    <string name="home">Главная</string>
+    <string name="exercises">Упражнения</string>
+    <string name="progress">Прогресс</string>
+    <string name="settings">Настройки</string>
+    <string name="back">Назад</string>
+    <string name="back_to_exercises">Вернуться ко всем упражнениям</string>
+
+    <!-- Exercise List Screen -->
+    <string name="exercise_list_title">Реабилитационные упражнения</string>
+    <string name="all_exercises">Все упражнения</string>
+    <string name="knee_exercises">Упражнения для колена</string>
+    <string name="completed_today">Выполнено сегодня</string>
+    <string name="exercises_completed">Выполнено %d из %d</string>
+    <string name="exercise_number">Упражнение №%d</string>
+    <string name="edit_exercises">Редактировать</string>
+    <string name="done_editing">Готово</string>
+    <string name="add_exercise">Добавить упражнение</string>
+    <string name="delete_exercise">Удалить</string>
+
+    <!-- Add Exercise Screen -->
+    <string name="exercise_name">Название упражнения</string>
+    <string name="exercise_description_optional">Описание (необязательно)</string>
+    <string name="save_exercise">Сохранить упражнение</string>
+    <string name="cancel">Отмена</string>
+    <string name="difficulty">Сложность</string>
+    <string name="duration_seconds">Время (сек)</string>
+    <string name="reps">Повторы</string>
+    <string name="sets_short">Подходы</string>
+    <string name="video_optional">Видео (необязательно - нажмите для добавления)</string>
+
+    <!-- Exercise Details -->
+    <string name="exercise_description">Описание</string>
+    <string name="exercise_instructions">Инструкции</string>
+    <string name="duration">Длительность: %d секунд</string>
+    <string name="repetitions">Повторения: %d</string>
+    <string name="sets">Подходы: %d</string>
+    <string name="equipment">Оборудование: %s</string>
+    <string name="no_equipment">Оборудование не требуется</string>
+
+    <!-- Video Player -->
+    <string name="play_video">Воспроизвести видео</string>
+    <string name="pause_video">Пауза</string>
+    <string name="replay_video">Повторить</string>
+    <string name="video_loading">Загрузка видео...</string>
+    <string name="video_error">Ошибка загрузки видео</string>
+
+    <!-- Actions -->
+    <string name="mark_complete">Отметить как выполненное</string>
+    <string name="mark_incomplete">Отметить как невыполненное</string>
+    <string name="completed">Выполнено</string>
+    <string name="not_completed">Не выполнено</string>
+    <string name="start_exercise">Начать упражнение</string>
+    <string name="finish_exercise">Завершить упражнение</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+
+    <!-- Difficulty Levels -->
+    <string name="difficulty_easy">Легкий</string>
+    <string name="difficulty_medium">Средний</string>
+    <string name="difficulty_hard">Сложный</string>
+
+    <!-- Categories -->
+    <string name="category_knee">Реабилитация колена</string>
+    <string name="category_strength">Сила</string>
+    <string name="category_flexibility">Гибкость</string>
+    <string name="category_balance">Баланс</string>
+    <string name="category_warmup">Разминка</string>
+    <string name="category_cooldown">Заминка</string>
+
+    <!-- Sample Exercise Names -->
+    <string name="exercise_knee_bend_title">Сгибания колена</string>
+    <string name="exercise_knee_bend_desc">Мягкое упражнение для сгибания колена для улучшения гибкости</string>
+    <string name="exercise_knee_bend_instructions">Встаньте прямо, медленно согните колено до 90 градусов, удерживайте 2 секунды, затем выпрямите. Держите спину прямой на протяжении всего упражнения.</string>
+
+    <string name="exercise_leg_raise_title">Подъемы прямой ноги</string>
+    <string name="exercise_leg_raise_desc">Укрепление четырехглавой мышцы без сгибания колена</string>
+    <string name="exercise_leg_raise_instructions">Лягте на спину, одну ногу согните, другую держите прямой. Поднимите прямую ногу на 30 см, удерживайте 3 секунды, медленно опустите.</string>
+
+    <string name="exercise_heel_slide_title">Скольжение пятки</string>
+    <string name="exercise_heel_slide_desc">Улучшение диапазона движения колена</string>
+    <string name="exercise_heel_slide_instructions">Лягте на спину, медленно скользите пяткой к ягодицам, сгибая колено. Удерживайте 5 секунд, затем выпрямите.</string>
+
+    <string name="exercise_quad_sets_title">Напряжение четырехглавой мышцы</string>
+    <string name="exercise_quad_sets_desc">Укрепление мышц бедра без движения</string>
+    <string name="exercise_quad_sets_instructions">Лягте с прямыми ногами. Напрягите мышцу бедра, прижимая заднюю часть колена вниз. Удерживайте 5 секунд, затем расслабьтесь.</string>
+
+    <string name="exercise_ankle_pumps_title">Движения голеностопом</string>
+    <string name="exercise_ankle_pumps_desc">Улучшение циркуляции и предотвращение тромбов</string>
+    <string name="exercise_ankle_pumps_instructions">Двигайте стопой вверх и вниз в голеностопном суставе. Выполняйте медленно и плавно на полную амплитуду движения.</string>
+
+    <!-- Progress -->
+    <string name="today">Сегодня</string>
+    <string name="this_week">На этой неделе</string>
+    <string name="total_exercises">Всего упражнений: %d</string>
+    <string name="completion_rate">Процент выполнения: %d%%</string>
+    <string name="streak_days">Серия: %d дней</string>
+
+    <!-- Settings -->
+    <string name="font_size">Размер шрифта</string>
+    <string name="language">Язык</string>
+    <string name="notifications">Уведомления</string>
+    <string name="reminder_time">Время напоминания</string>
+    <string name="dark_mode">Темный режим</string>
+
+    <!-- Messages -->
+    <string name="exercise_completed">Отличная работа! Упражнение выполнено!</string>
+    <string name="all_exercises_completed">Превосходно! Все упражнения на сегодня выполнены!</string>
+    <string name="keep_going">Продолжайте! Вы справитесь!</string>
+    <string name="rest_reminder">Помните об отдыхе, если чувствуете боль</string>
+    <string name="consult_doctor">Обратитесь к врачу при дискомфорте</string>
+
+    <!-- Accessibility -->
+    <string name="cd_play_button">Воспроизвести видео упражнения</string>
+    <string name="cd_check_mark">Отметить упражнение как выполненное</string>
+    <string name="cd_exercise_thumbnail">Миниатюра упражнения</string>
+    <string name="cd_back_button">Вернуться назад</string>
+    <string name="cd_favorite_button">Добавить в избранное</string>
+</resources>
